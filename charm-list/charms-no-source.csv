@@ -20,11 +20,11 @@ aws-integrator
 azure-integrator
 barbican
 barbican-vault
-bingo
 canal
 canonical-kubernetes-canal
 canonical-livepatch-onprem
 canonical-livepatch-server
+canonical-livepatch-server-k8s
 capsule-k8s
 cassandra
 ceilometer
@@ -69,8 +69,10 @@ docker-registry
 dokuwiki
 easyrsa
 elasticsearch-k8s
+enterprise-store
 etcd
 flannel
+forgejo-k8s
 ganglia-node
 gcp-integrator
 geth
@@ -83,6 +85,7 @@ hacluster
 haproxy
 hardware-observer
 heat
+heimdall
 hello-juju
 influxdb
 ironic-api
@@ -178,6 +181,7 @@ octavia
 octavia-dashboard
 octavia-diskimage-retrofit
 odl-controller
+oops-tools
 openjdk
 opensearch
 openstack-base
@@ -204,6 +208,7 @@ portainer-agent
 pro-airgapped-server
 prometheus-scrape-target-k8s
 rabbitmq-server
+ranger-k8s
 squid-reverseproxy
 sriov-cni
 sriov-network-device-plugin
@@ -218,4 +223,5 @@ ubuntu-lite
 ubuntu-repository-cache
 userdir-ldap
 vsphere-integrator
+wordpress-k8s
 znc
